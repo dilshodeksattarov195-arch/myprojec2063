@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "invoicefalculate",
+        "uuid": 5900180,
+        "checksum": "nonsss"
+    },
+    "settings": {
+        "retries": 3,
+        "enabled": true,
+        "mode": "production"
+    }
+}
